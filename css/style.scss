@@ -26,5 +26,7 @@ body{
         display: grid;
         grid-template-columns: auto;
         place-items: center;
-       
+       >#candy_img{
+        width: 250px;
+       }
     }
